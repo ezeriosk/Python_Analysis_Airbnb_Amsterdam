@@ -7,9 +7,6 @@ An analysis using a Python notebook with a dataset for Airbnb in Amsterdam. The 
 - [Analysis](#analysis)
 - [Slides](#slides)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Introduction
 
