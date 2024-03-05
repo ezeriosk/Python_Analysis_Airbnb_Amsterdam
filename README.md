@@ -2,12 +2,6 @@
 
 An analysis using a Python notebook with a dataset for Airbnb in Amsterdam. The notebook focuses on analyzing the types of properties and their availability. Additionally, slides are created to showcase the results and propose potential solutions.
 
-## 🎨 Table of Contents
-- [Introduction](#introduction)
-- [Analysis](#analysis)
-- [Slides](#slides)
-- [Installation](#installation)
-
 ## 🌟 Introduction
 
 Welcome to the Airbnb Amsterdam Analysis project! 🏡✨ This analysis aims to provide insights into the Airbnb landscape in Amsterdam.
