@@ -28,4 +28,3 @@ To replicate the analysis on your local machine, follow these installation steps
 # 🚀 Example installation steps
 git clone https://github.com/yourusername/airbnb-amsterdam-analysis.git
 cd airbnb-amsterdam-analysis
-pip install -r requirements.txt
